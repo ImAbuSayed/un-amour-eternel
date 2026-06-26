@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Un Amour Éternel
+
+This log tracks the cryptographic history and versioning for the song **Un Amour Éternel** (un-amour-eternel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-27T05:19:02.975658 | `v1` | `a4519b0d9d4e7dde926c0dcbdd3989e0b45da37f1910d712479a0aa2ad7942f8` | `7c3f42f7f23d7097eb74365bbfd9901c8cf0f03b2e4dc37f5be4d2bf8a74d26f` | `2026-06-27_un-amour-eternel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
