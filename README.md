@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-amour-eternel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Un Amour Éternel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-amour-eternel/) |
+| **Get License** | [Official Music Licensing for Un Amour Éternel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-amour-eternel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ton regard brille sous les lumières de la ville,
+> Baby, c'est toi, tu rends mon cœur si fragile.
+> Dans notre night drive, on oublie le temps,
+> Un amour éternel, c'est tout ce que je ressens.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
